@@ -1,4 +1,4 @@
-# ReactNative-ProjetoCalixto
+# React Native - Loja de Brinquedos
 
 Integrantes:
 
